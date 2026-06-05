@@ -60,8 +60,8 @@ You can drag a project folder, use the directory the exe is located in, or paste
 
 <h3>You can now see all the lines of code based on the options you have selected.</h3>
 <p> You're welcome. :P</p>
-
-
+<blockquote>Sleep is debatable, I need more energy drinks.</blockquote>
+<a href='https://ko-fi.com/H2H11RRTF3' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
 
